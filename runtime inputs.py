@@ -63,6 +63,7 @@ print(a-b)'''
 b=int(input())
 print(a+b)'''
 
+#task -> Student profile
 '''id_no=int(input("enter idno"))
 name=str(input("enter student name"))
 mobile=int(input("enter mobile no"))
@@ -77,6 +78,7 @@ print("mailid is :" ,mailid)
 print("college is:" ,clg)
 print("branch is:" ,branch)'''
 
+#task
 '''a=[10,20,30,40,50]
 a.insert(2,25)'''
 
@@ -93,8 +95,17 @@ print(tuple(c))'''
 a.remove("white")
 print(a)'''
 
-a={"name":"pooja","city":"vij"}
+'''a={"name":"pooja","city":"vij"}
 a.update({"state":"ap"})
-print(a)
+print(a)'''
 
+#max(),min(),sum()
 
+'''print(max(2,3,5,7,8,9,10,30,20))
+
+print(min(2,3,5,7,8,9,10,30,20))
+
+print(sum([10,30]))
+
+a=3,4,5,6
+print(sum(a))'''
